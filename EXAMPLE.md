@@ -1,10 +1,10 @@
 
-# operation be your own bunny
+# My Example Project
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-hammy is trying to be his own bunny, but he needs to work up the confidence
+This is an example of a readme that is generated using my application
 
 ## Table of Contents
 * Installation
@@ -14,22 +14,23 @@ hammy is trying to be his own bunny, but he needs to work up the confidence
 * Tests
 * Questions 
 
-### Installation
+## Installation
 To install necessary dependencies, run the following command:
-npm i bunbun
+npm i inquirer
 
-### Usage
-always be part of the bbb
+## Usage
+Please make sure you read through the directions correctly 
 
-### License
+## License
 This project is licensed under MIT
 
-### Contributing
-only certified bbb members allowed to contribute
+## Contributing
+Please make sure there are no errors before pushing
 
-### Tests
+## Tests
 To run tests, run the following command:
-testing bunbun
+potential commands
 
-#### Questions
-If you have any question about the repo, open an issue or contact me directly at skambunny@hotmail.com. You can find more of my work at https://github.com/skam bunny
+_______________________________________________________________________________________________________________________________________________________________________
+## Questions
+If you have any question about the repo, open an issue or contact me directly at janedoe1@gmail.com. You can find more of my work at https://github.com/jane-doe
