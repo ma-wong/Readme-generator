@@ -32,6 +32,6 @@ User response
 Terminal will display this message if file was successfully written
 
 ### Links
-[Link to walkthrough video](https://github.com/ma-wong/Readme-generator)
+[Link to walkthrough video](https://www.dropbox.com/s/3idgxgdqf0sohb7/readme-generator%20walkthrough.mov?dl=0)
 
 
